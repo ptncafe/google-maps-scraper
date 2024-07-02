@@ -1,3 +1,10 @@
 cache/
 vendor
 bin
+proxies.txt
+google-maps-scraper
+results/*.csv
+.vscode/launch.json
+.idea/
+.idea/sonarlint/
+.env

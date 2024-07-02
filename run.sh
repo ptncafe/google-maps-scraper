@@ -1,0 +1,1 @@
+./google-maps-scraper  -exit-on-inactivity 10m -lang vi -c 6 -proxyfile proxies.txt
